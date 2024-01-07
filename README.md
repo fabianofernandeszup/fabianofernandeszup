@@ -1,10 +1,10 @@
-![Profile Views](https://komarev.com/ghpvc/?username=GuillaumeFalourd&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=fabianofernandeszup&color=blue)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
 ### I'm a 🇫🇷 Software Developer living in 🇧🇷 and working at [Zup Innovation](https://www.zup.com.br/).
 
-![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/fabianofernandeszup/fabianofernandeszup/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
 
@@ -19,17 +19,17 @@
 ### Analytics ⚙️
 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8496462?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/8496462)
-[![GitHub User's stars](https://img.shields.io/github/stars/GuillaumeFalourd?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/GuillaumeFalourd?tab=repositories&q=&type=public&language=&sort=stargazers)
+[![GitHub User's stars](https://img.shields.io/github/stars/fabianofernandeszup?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/fabianofernandeszup?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 <p align="left">
-<a href="https://github.com/GuillaumeFalourd">
-  <img src="https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/main/github-metrics.svg"/>
+<a href="https://github.com/fabianofernandeszup">
+  <img src="https://github.com/fabianofernandeszup/fabianofernandeszup/blob/main/github-metrics.svg"/>
 </a>
 </p>
   
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFalourd" />
-<!--   <img height="180em" src="https://raw.githubusercontent.com/GuillaumeFalourd/GuillaumeFalourd/main/profile-summary-card-output/github/3-stats.svg" /> -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fabianofernandeszup" />
+<!--   <img height="180em" src="https://raw.githubusercontent.com/fabianofernandeszup/fabianofernandeszup/main/profile-summary-card-output/github/3-stats.svg" /> -->
 </p>  
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
@@ -37,11 +37,11 @@
 ### Let's connect ? 🤝
 
 <p align="left">
-<a href="http://bit.ly/guillaumefalourdlinkedin"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdtwitter"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdstackoverflow"><img src="https://img.shields.io/badge/guifalourd-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourdmedium"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourddevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="http://bit.ly/fabianofernandeszuplinkedin"><img src="https://img.shields.io/badge/-fabianofernandeszup-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="http://bit.ly/fabianofernandeszuptwitter"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="http://bit.ly/fabianofernandeszupstackoverflow"><img src="https://img.shields.io/badge/guifalourd-D16f37?style=flat&logo=Stackoverflow&logoColor=white"/></a>
+<a href="http://bit.ly/fabianofernandeszupmedium"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="http://bit.ly/fabianofernandeszupdevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
 <a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
